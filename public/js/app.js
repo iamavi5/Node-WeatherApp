@@ -1,8 +1,3 @@
-console.log('Client site java scriopt loaded..')
-
-
-
-
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const msgOne = document.querySelector('#messageOne')
